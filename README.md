@@ -1,1 +1,2 @@
-# maui-time-tracker
+# maui-time-tracker #
+The purpose of this app is to track your work time. Inspired by the app TimeSheet and the base setup is taken from [Maui MVVM Demo](https://github.com/PieEatingNinjas/MAUI_MVVM_Demo)
